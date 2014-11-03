@@ -6,3 +6,7 @@ Arsenal
 Museums
 Tube
 Pubs
+Food
+Things
+Resturaunts
+Coffee
